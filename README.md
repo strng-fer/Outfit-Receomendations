@@ -1,15 +1,25 @@
-# NAVASENA: Sistem Rekomendasi Outfit 👗✨
+# Sistem Rekomendasi Outfit 👗✨
 
 Sistem rekomendasi outfit berbasis AI yang menggunakan teknologi RAG (Retrieval-Augmented Generation) dengan NVIDIA LLM dan FAISS vector store untuk memberikan rekomendasi outfit yang personal dan kontekstual.
 
 ## 📋 Deskripsi Proyek
 
-**NAVASENA** adalah sistem AI yang dapat memberikan rekomendasi outfit sesuai dengan preferensi pengguna, jenis acara, cuaca, dan faktor lainnya. Sistem ini memanfaatkan:
+Program ini adalah sistem AI yang dapat memberikan rekomendasi outfit sesuai dengan preferensi pengguna, jenis acara, cuaca, dan faktor lainnya. Sistem ini memanfaatkan:
 
 - **RAG Pipeline**: Menggabungkan pencarian dokumen relevan dengan generasi teks
 - **NVIDIA LLM**: Menggunakan model bahasa besar dari NVIDIA AI Endpoints
 - **FAISS Vector Store**: Untuk pencarian semantik yang cepat dan efisien
 - **HuggingFace Embeddings**: Untuk mengkonversi teks menjadi representasi vektor
+
+
+Proyek bertujuan untuk menyelesaikan kelas bootcamp Generative AI with LLM  yang diadakanoleh Navasena. 
+
+### Certificate
+#### 🎓 Sertifikat Penyelesaian Kelas
+![Certificate of Participation](./Feryadi%20Yulius-Certificate%20of%20Participation.png)
+
+#### 🏆 Sertifikat Final Project
+![Certificate of Final Project Completion](./Feryadi%20Yulius-Final%20Project%20Completion.png)
 
 ## 🎯 Fitur Utama
 
@@ -130,7 +140,7 @@ Dataset menggunakan [Outfit Recommendation Dataset](https://huggingface.co/datas
 
 ## 🤝 Kontributor
 
-- **Feryadi Yulius** - Developer & Fashion AI Enthusiast
+- **Feryadi Yulius** - Undergraduated Data Science Student
 - **Kelas**: Generative AI with LLM
 
 ## 📄 Lisensi
